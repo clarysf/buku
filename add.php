@@ -8,7 +8,7 @@ if(!isset($_SESSION['valid'])) {
 
 <html>
 <head>
-	<title>Add Data</title>
+	<title>Add Data Buku</title>
 </head>
 
 <body>
