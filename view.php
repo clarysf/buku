@@ -16,7 +16,7 @@ $result = mysqli_query($mysqli, "SELECT * FROM products WHERE login_id=".$_SESSI
 
 <html>
 <head>
-	<title>Homepage</title>
+	<title>Homepages</title>
 </head>
 
 <body>
